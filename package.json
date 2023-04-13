@@ -1,0 +1,21 @@
+{
+  "name": "shine-sharp-light",
+  "displayName": "shine-sharp-light",
+  "description": "Light Theme with a non full white background with sharp edge and high contrast for coding",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shine Sharp Light",
+        "uiTheme": "vs",
+        "path": "./themes/Shine Sharp Light-color-theme.json"
+      }
+    ]
+  }
+}
